@@ -1,0 +1,46 @@
+.head-nav {
+  background-color: #1D1D1F;
+  padding-left: 22px;
+  padding-right: 22px;
+  align-items: center;
+  font-size: 14px;
+  margin-left: -10px;
+  margin-right: -10px;
+  height: 44px;
+  box-sizing: content-box;
+  width: 100%;
+}
+body {
+  margin: 0;
+  text-align: center;
+  line-height: 1.58824;
+  font-family: "SF Pro KR","SF Pro Text","SF Pro Icons","Apple Gothic","HY Gulim","MalgunGothic","HY Dotum","Lexi Gulim","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+a {
+  text-decoration: none;
+}
+.head-nav a {
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+.head-nav nav {
+  position: relative;
+  margin: 0 auto;
+  max-width: 980px;
+  padding: 0 22px;
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+}
+.alert-section p{
+  margin: 0;
+  font-size: 12px;
+}
+.alert-section {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
