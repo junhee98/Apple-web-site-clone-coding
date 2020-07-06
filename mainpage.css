@@ -44,3 +44,150 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
+.main-part h2 {
+  margin : 0px;
+}
+.main-part h5 {
+  margin : 0px;
+}
+.main-part p {
+  margin : 0px;
+}
+.main-part a {
+  margin : 0px;
+}
+.iPhone-se {
+  background-image: url("https://apple.com/v/home/i/images/heroes/iphone-se/hero__dvsxv8smkkgi_large.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.iPhone-se-head {
+  color: #fff;
+}
+.iPhone-se-main {
+  color: #fff;
+}
+.iPhone-se-foot {
+  color: #7F7D7D;
+}
+.iPhone-se-buy a {
+  color: #2997ff;
+}
+.iPhone-11 {
+  background-image: url("https://apple.com/v/home/i/images/heroes/iphone-11-spring/hero__dvsxv8smkkgi_large.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.iPhone-11-head {
+  color: #1d1d1f;
+}
+.iPhone-11-main {
+  color: #1d1d1f;
+}
+.iPhone-11-foot {
+  color: #7F7D7D;
+}
+.iPhone-11-buy a {
+  color: #06c;
+}
+.iPad-pro {
+  background-image: url("https://apple.com/v/home/i/images/heroes/ipad-pro/hero__dvsxv8smkkgi_large.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.iPad-pro-head {
+  color: #1d1d1f;
+}
+.iPad-pro-main {
+  color: #1d1d1f;
+}
+.iPad-pro-buy a {
+  color: #06c;
+}
+.wwdc20 {
+  background-image: url("https://apple.com/v/home/i/images/promos/wwdc-2020-phase-4/tile__cauwwcyyn9hy_large.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.wwdc20-head {
+  color: #fff;
+}
+.wwdc20-main {
+  color: #fff;
+}
+.wwdc20-watch a {
+  color: #2997ff;
+}
+.reopen-store {
+  background-image: url("https://apple.com/v/home/i/images/promos/store-opening-letter/tile__cauwwcyyn9hy_large.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.reopen-store-head {
+  color: #1d1d1f;
+}
+.reopen-store-message a {
+  color: #06c;
+}
+.iPhone_Watch {
+  background-image: url("https://apple.com/v/home/i/images/promos/power-of-plus/tile__cauwwcyyn9hy_large.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.iPhone_Watch-head {
+  color: #1d1d1f;
+}
+.iPhone_Watch-main {
+  color: #1d1d1f;
+}
+.iPhone_Watch-buy a {
+  color: #06c;
+}
+.iPhone-11pro {
+  background-image: url("https://apple.com/v/home/i/images/promos/iphone-11-pro/tile__cauwwcyyn9hy_large.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.iPhone-11pro-head {
+  color: #fff;
+}
+.iPhone-11pro-main {
+  color: #fff;
+}
+.iPhone-11pro-foot {
+  color: #7F7D7D;
+}
+.iPhone-11pro-buy a {
+  color: #2997ff;
+}
+.Watch {
+  background-image: url("https://apple.com/kr/home/i/images/promos/watch-series-5/tile_aws5__fwphji1d8yeu_large.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Watch-head {
+  color: #1d1d1f;
+}
+.Watch-head h5 {
+  color: #D7482A;
+}
+.Watch-main {
+  color: #1d1d1f;
+}
+.Watch-buy a {
+  color: #06c;
+}
+.make-my-unit {
+  background-image: url("https://apple.com/v/home/i/images/promos/airpods-engraving-refresh/tile__cauwwcyyn9hy_large.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.make-my-unit-head {
+  color: #1d1d1f;
+}
+.make-my-unit-main {
+  color: #1d1d1f;
+}
+.make-my-unit-buy {
+  color: #06c;
+}
