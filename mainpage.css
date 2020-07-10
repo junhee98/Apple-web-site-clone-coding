@@ -14,6 +14,8 @@ body {
   margin: 0;
   text-align: center;
   line-height: 1.58824;
+}
+html {
   font-family: "SF Pro KR","SF Pro Text","SF Pro Icons","Apple Gothic","HY Gulim","MalgunGothic","HY Dotum","Lexi Gulim","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 a {
@@ -190,4 +192,77 @@ a {
 }
 .make-my-unit-buy {
   color: #06c;
+}
+.foot {
+  background-color: #E1E6E6;
+  padding: 0 100px;
+  font-size: 12px;
+  color: #818585;
+}
+.foot-content2 p {
+  text-align: left;
+  padding: 12px 0;
+  margin: 0;
+}
+.foot-part {
+  border-bottom: 0.05rem solid #818585;
+  padding: 17px 0;
+}
+.foot-nav {
+  display: flex;
+
+}
+.foot-nav div {
+  text-align: left;
+  margin-right: 20px;
+}
+.foot-nav div h3 {
+  font-size: 12px;
+  color: #000;
+}
+.foot-info {
+  text-align: left;
+}
+.foot-nav nav a {
+  color: #818585;
+}
+.many-kind-of-shopping {
+  padding-top: 30px;
+  border-bottom: 0.05rem solid #818585;
+}
+.many-kind-of-shopping a {
+  color: #06c;
+}
+.foot-first-part {
+  display: flex;
+  justify-content: space-between;
+}
+.foot-information-nav nav {
+  margin-top: 12px;
+}
+.choose-country {
+  margin-top: 12px;
+}
+.foot-information-nav nav a {
+  color: #333030;
+  padding-right: 7px;
+  padding-left: 7px;
+  border-right: 0.05rem solid #818585;
+}
+.choose-country a {
+  color: #333030;
+}
+.another-info {
+  display: flex;
+}
+#sitemap {
+  border-right: none;
+}
+.another-info p {
+  font-size: 11px;
+  padding: 0 5px;
+  border-right: 0.05rem solid #818585;
+}
+#pax {
+  border-right: none;
 }
