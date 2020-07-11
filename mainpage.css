@@ -1,7 +1,7 @@
 .head-nav {
   background-color: #1D1D1F;
-  padding-left: 22px;
-  padding-right: 22px;
+  padding-left: 15px;
+  padding-right: 15px;
   align-items: center;
   font-size: 14px;
   margin-left: -10px;
@@ -60,144 +60,247 @@ a {
 }
 .iPhone-se {
   background-image: url("https://apple.com/v/home/i/images/heroes/iphone-se/hero__dvsxv8smkkgi_large.jpg");
-  background-size: cover;
+  background-position: center;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
+  height: 120vh;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .iPhone-se-head {
   color: #fff;
+  font-size: 2rem;
+  padding-top: 25px;
 }
 .iPhone-se-main {
   color: #fff;
+  font-size: 1.25rem;
 }
 .iPhone-se-foot {
   color: #7F7D7D;
 }
 .iPhone-se-buy a {
   color: #2997ff;
+  font-size: 1.2rem;
+  margin-right: 15px;
 }
 .iPhone-11 {
   background-image: url("https://apple.com/v/home/i/images/heroes/iphone-11-spring/hero__dvsxv8smkkgi_large.jpg");
-  background-size: cover;
+  background-position: center;
+  background-size: 100% cover;
   background-repeat: no-repeat;
+  height: 75vh;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .iPhone-11-head {
   color: #1d1d1f;
+  font-size: 2rem;
+  padding-top: 25px;
 }
 .iPhone-11-main {
   color: #1d1d1f;
+  font-size: 1.25rem;
 }
 .iPhone-11-foot {
   color: #7F7D7D;
 }
 .iPhone-11-buy a {
   color: #06c;
+  font-size: 1.2rem;
+  margin-right: 15px;
 }
 .iPad-pro {
   background-image: url("https://apple.com/v/home/i/images/heroes/ipad-pro/hero__dvsxv8smkkgi_large.jpg");
-  background-size: cover;
+  background-position: center;
+  background-size: 100% cover;
   background-repeat: no-repeat;
+  height: 100vh;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .iPad-pro-head {
   color: #1d1d1f;
+  font-size: 2rem;
+  padding-top: 25px;
 }
 .iPad-pro-main {
   color: #1d1d1f;
+  font-size: 1.25rem;
 }
 .iPad-pro-buy a {
   color: #06c;
+  font-size: 1.2rem;
+  margin-right: 15px;
+}
+.two-part_1 {
+  display: flex;
 }
 .wwdc20 {
   background-image: url("https://apple.com/v/home/i/images/promos/wwdc-2020-phase-4/tile__cauwwcyyn9hy_large.jpg");
-  background-size: cover;
+  background-position: center;
+  background-size: 100% cover;
   background-repeat: no-repeat;
+  width: 50%;
+  height: 100vh;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .wwdc20-head {
   color: #fff;
+  font-size: 2rem;
+  padding-top: 25px;
 }
 .wwdc20-main {
   color: #fff;
+  font-size: 1.25rem;
 }
 .wwdc20-watch a {
   color: #2997ff;
+  font-size: 1.2rem;
 }
 .reopen-store {
   background-image: url("https://apple.com/v/home/i/images/promos/store-opening-letter/tile__cauwwcyyn9hy_large.jpg");
-  background-size: cover;
+  background-position: center;
+  background-size: 100% cover;
   background-repeat: no-repeat;
+  width: 50%;
+  height: 100vh;
+  margin-top: 10px;
+  margin-right: 10px;
 }
 .reopen-store-head {
   color: #1d1d1f;
+  font-size: 1.3rem;
+  padding-top: 25px;
 }
 .reopen-store-message a {
   color: #06c;
+  font-size: 1.2rem;
+}
+.two-part_2 {
+  display: flex;
 }
 .iPhone_Watch {
   background-image: url("https://apple.com/v/home/i/images/promos/power-of-plus/tile__cauwwcyyn9hy_large.jpg");
-  background-size: cover;
+  background-position: center;
+  background-size: 50% cover;
   background-repeat: no-repeat;
+  width: 50%;
+  height: 100vh;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .iPhone_Watch-head {
   color: #1d1d1f;
+  font-size: 2rem;
+  padding-top: 25px;
 }
 .iPhone_Watch-main {
   color: #1d1d1f;
+  font-size: 1.25rem;
 }
 .iPhone_Watch-buy a {
   color: #06c;
+  font-size: 1.2rem;
 }
 .iPhone-11pro {
   background-image: url("https://apple.com/v/home/i/images/promos/iphone-11-pro/tile__cauwwcyyn9hy_large.jpg");
-  background-size: cover;
+  background-position: center;
+  background-size: 50% cover;
   background-repeat: no-repeat;
+  width: 50%;
+  height: 100vh;
+  margin-right: 10px;
+  margin-top: 10px;
 }
 .iPhone-11pro-head {
   color: #fff;
+  font-size: 2rem;
+  padding-top: 25px;
 }
 .iPhone-11pro-main {
   color: #fff;
+  font-size: 1.25rem;
 }
 .iPhone-11pro-foot {
   color: #7F7D7D;
 }
 .iPhone-11pro-buy a {
   color: #2997ff;
+  font-size: 1.2rem;
+  margin-right: 15px;
+}
+.two-part_3 {
+  display: flex;
 }
 .Watch {
   background-image: url("https://apple.com/kr/home/i/images/promos/watch-series-5/tile_aws5__fwphji1d8yeu_large.jpg");
-  background-size: cover;
+  background-position: center;
+  background-size: contain;
   background-repeat: no-repeat;
+  width: 50%;
+  height: 100vh;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .Watch-head {
-  color: #1d1d1f;
+  color: #c2beb2;
+  font-size: 2rem;
+  padding-top: 25px;
 }
 .Watch-head h5 {
   color: #D7482A;
+  font-size: 0.75rem;
 }
 .Watch-main {
   color: #1d1d1f;
+  font-size: 1.25rem;
 }
 .Watch-buy a {
   color: #06c;
+  font-size: 1.2rem;
+  margin-right: 15px;
 }
 .make-my-unit {
   background-image: url("https://apple.com/v/home/i/images/promos/airpods-engraving-refresh/tile__cauwwcyyn9hy_large.jpg");
-  background-size: cover;
+  background-position: center;
+  background-size: 50% cover;
   background-repeat: no-repeat;
+  width: 50%;
+  height: 100vh;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .make-my-unit-head {
   color: #1d1d1f;
+  font-size: 1.75rem;
+  padding-top: 25px;
 }
 .make-my-unit-main {
   color: #1d1d1f;
+  font-size: 1.2rem;
 }
-.make-my-unit-buy {
+.make-my-unit-buy a {
   color: #06c;
+  font-size: 1.2rem;
+  margin-right: 15px;
 }
 .foot {
   background-color: #E1E6E6;
   padding: 0 100px;
   font-size: 12px;
   color: #818585;
+}
+.foot-content p{
+  text-align: left;
 }
 .foot-content2 p {
   text-align: left;
