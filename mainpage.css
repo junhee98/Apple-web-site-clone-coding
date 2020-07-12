@@ -1,7 +1,5 @@
 .head-nav {
-  background-color: #1D1D1F;
-  padding-left: 15px;
-  padding-right: 15px;
+  background-color: #1d1d1f;
   align-items: center;
   font-size: 14px;
   margin-left: -10px;
@@ -14,15 +12,19 @@ body {
   margin: 0;
   text-align: center;
   line-height: 1.58824;
+  font-family: sans-serif;
+  font-weight: 500;
 }
 html {
-  font-family: "SF Pro KR","SF Pro Text","SF Pro Icons","Apple Gothic","HY Gulim","MalgunGothic","HY Dotum","Lexi Gulim","Helvetica Neue","Helvetica","Arial",sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 106.25%;
 }
 a {
   text-decoration: none;
 }
 .head-nav a {
-  color: #fff;
+  color: #c6c9cf;
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 10px;
@@ -46,6 +48,9 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
+.alert-section-main a {
+  color: #06c;
+}
 .main-part h2 {
   margin : 0px;
 }
@@ -63,7 +68,7 @@ a {
   background-position: center;
   background-size: 100% 100%;
   background-repeat: no-repeat;
-  height: 120vh;
+  height: 100vh;
   margin-left: 10px;
   margin-right: 10px;
 }
@@ -152,7 +157,8 @@ a {
 .wwdc20-head {
   color: #fff;
   font-size: 2rem;
-  padding-top: 25px;
+  padding-top: 30px;
+  margin-top: 25px;
 }
 .wwdc20-main {
   color: #fff;
@@ -175,7 +181,8 @@ a {
 .reopen-store-head {
   color: #1d1d1f;
   font-size: 1.3rem;
-  padding-top: 25px;
+  padding-top: 30px;
+  margin-top: 25px;
 }
 .reopen-store-message a {
   color: #06c;
@@ -198,7 +205,8 @@ a {
 .iPhone_Watch-head {
   color: #1d1d1f;
   font-size: 2rem;
-  padding-top: 25px;
+  padding-top: 30px;
+  margin-top: 25px;
 }
 .iPhone_Watch-main {
   color: #1d1d1f;
@@ -221,7 +229,8 @@ a {
 .iPhone-11pro-head {
   color: #fff;
   font-size: 2rem;
-  padding-top: 25px;
+  padding-top: 30px;
+  margin-top: 25px;
 }
 .iPhone-11pro-main {
   color: #fff;
@@ -253,7 +262,8 @@ a {
 .Watch-head {
   color: #c2beb2;
   font-size: 2rem;
-  padding-top: 25px;
+  padding-top: 30px;
+  margin-top: 25px;
 }
 .Watch-head h5 {
   color: #D7482A;
@@ -282,7 +292,8 @@ a {
 .make-my-unit-head {
   color: #1d1d1f;
   font-size: 1.75rem;
-  padding-top: 25px;
+  padding-top: 30px;
+  margin-top: 25px;
 }
 .make-my-unit-main {
   color: #1d1d1f;
@@ -317,7 +328,7 @@ a {
 }
 .foot-nav div {
   text-align: left;
-  margin-right: 20px;
+  margin-right: 30px;
 }
 .foot-nav div h3 {
   font-size: 12px;
